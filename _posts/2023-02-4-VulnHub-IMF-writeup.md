@@ -307,7 +307,7 @@ Al subir una imagen cualquiera vemos en la respuesta que hay un comentario, el c
 
 `http://192.168.1.143/imfadministrator/uploads/4edf6733684e.png`
 
-Nuestro objetivo es intentar subir código en **PHP** y que nos lo interprete, para eso podemos crear un archivo **GIF** para vurlar las restricciones que contenga código en php.
+Nuestro objetivo es intentar subir código en **PHP** y que nos lo interprete, para eso podemos crear un archivo **GIF** para burlar las restricciones que contenga código en php.
 
 > reverse.gif
 
