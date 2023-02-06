@@ -8,7 +8,7 @@ header:
   teaser_home_page: true
 categories:
   - VulnHub  
-  - medium
+  - Medium
 tags:
   - Type Juggling
   - SQLI
