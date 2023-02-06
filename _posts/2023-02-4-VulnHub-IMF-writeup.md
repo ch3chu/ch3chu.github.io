@@ -22,8 +22,6 @@ Recordad que esta es una máquina de VulnHub, tendremos que hacer un reconocimen
 Hoy aprenderemos a bypasear el login mediante una téctina llamada **Type Juggling**, abusaremos de un paŕametro vulnerable a **SQL Injection Boolean based**, gracias a esto descubriremos una nueva ruta, en la cual podremos subir un archivo **GIF** para ejecutar comandos.<br>
 En la escalada de privilegios nos aprovecharemos de un binario vulnerable a **Buffer Overflow Stack Based x86**.
 
-[autopwn](https://github.com/ch3chu/autopwns/tree/main/VulnHub/IMF)
-
 ## índice
 * [Nmap, Fuzzing y Reconocimiento](#nmap-fuzzing-y-reconocimiento)
 * [Type Juggling Login Bypass](#type-juggling-login-bypass)
