@@ -1,6 +1,6 @@
 ---
 layout: single
-title: HackTheBox - Investigation writeup
+title: HTB - Investigation writeup
 date: 2023-02-09
 classes: wide
 header:
