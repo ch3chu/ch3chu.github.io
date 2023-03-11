@@ -4,7 +4,7 @@ title: HTB - BroScience writeup
 date: 2023-01-28
 classes: wide
 header:
-  teaser: /assets/images/HackTheBox/BroScience/broscience.png
+  teaser: /assets/images/HackTheBox/logo.svg
   teaser_home_page: true
 categories:
   - HackTheBox  

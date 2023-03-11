@@ -4,7 +4,7 @@ title: VulnHub - IMF writeup
 date: 2023-02-04
 classes: wide
 header:
-  teaser: /assets/images/VulnHub/IMF/IMF.png
+  teaser: /assets/images/VulnHub/logo.svg
   teaser_home_page: true
 categories:
   - VulnHub  

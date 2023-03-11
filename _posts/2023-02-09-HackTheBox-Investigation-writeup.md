@@ -4,7 +4,7 @@ title: HackTheBox - Investigation writeup
 date: 2023-02-09
 classes: wide
 header:
-  teaser: /assets/images/HackTheBox/Investigation/Investigation.png
+  teaser: /assets/images/HackTheBox/logo.svg
   teaser_home_page: true
 categories:
   - HackTheBox  
